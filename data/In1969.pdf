@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="NIEPID Website | Offical Website of NIEPID | India">
+    <meta name="lang" content="en">
+    <title>NIEPID Website | Offical Website of NIEPID | India</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://niepid.nic.in/xmlrpc.php" />
+    <link rel="stylesheet" href="https://niepid.nic.in/wp-content/themes/sdo-theme/css/print.css" type="text/css" media="print">
+    <meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="description" content="Offical Website of NIEPID" />
+<meta name="keywords" content="Home" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://niepid.nic.in/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='extra-feature-css-css' href='https://niepid.nic.in/wp-content/plugins/common_utility/css/extra.features.css?ver=1.1' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://niepid.nic.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='parichay-login-css-css' href='https://niepid.nic.in/wp-content/plugins/parichay-sso//css/login.css?ver=1.1' media='all' />
+<link rel='stylesheet' id='wsl-widget-css' href='https://niepid.nic.in/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='base-css-css' href='https://niepid.nic.in/wp-content/themes/sdo-theme/css/base.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='jquery-ui-datepicker-css' href='https://niepid.nic.in/wp-content/plugins/awaas-metaboxes/assets/css/jquery.ui.datepicker.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='sliderhelper-css-css' href='https://niepid.nic.in/wp-content/themes/sdo-theme/css/addons/sliderhelper.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='main-css-css' href='https://niepid.nic.in/wp-content/themes/sdo-theme/style.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://niepid.nic.in/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.11.0' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://niepid.nic.in/wp-content/plugins/awaas-accessibility/css/font-awesome.css?ver=6.7.1' media='all' />
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/awaas-accessibility/js/external.js?ver=6.7.1" id="external-link-js"></script>
+<script type="text/javascript" id="s3waas-accessibility-js-extra">
+/* <![CDATA[ */
+var S3WaaSAccessibilityParams = {"blogInfoName":"NIEPID Website","defaultLinkAriaLabel":"External site that opens in a new window","defaultLinkTitle":"External site that opens in a new window","flexNavPrevTitle":"Previous","flexNavPlayPauseTitle":"Play\/Pause","flexNavNextTitle":"Next","ariaLabelDownload":"Download","excludeExternalLinks":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/awaas-accessibility/js/accessibility.js?ver=6.7.1" id="s3waas-accessibility-js"></script>
+<link rel="https://api.w.org/" href="https://niepid.nic.in/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://niepid.nic.in/wp-json/wp/v2/pages/1163" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://niepid.nic.in/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://niepid.nic.in/" />
+<link rel='shortlink' href='https://niepid.nic.in/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://niepid.nic.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fniepid.nic.in%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://niepid.nic.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fniepid.nic.in%2F&#038;format=xml" />
+    <noscript>
+        <style>
+            #topBar #accessibility ul li .goiSearch, #topBar1 #accessibility ul li .goiSearch{ visibility: visible;}
+            #topBar #accessibility ul li .socialIcons ul, #topBar1 #accessibility ul li .socialIcons ul { background: #fff !important;}
+            #topBar #accessibility ul li .goiSearch, #topBar1 #accessibility ul li .goiSearch{ right: 0; left: inherit;}
+            .nav li a:focus > ul { left: 0; opacity: 0.99;}
+            a:focus, button:focus, .carasoleflex-wrap .flexslider .slides > li a:focus, .flexslider .slides>li a:focus
+            { outline: 3px solid #ff8c00 !important;}
+            .flexslider .slides>li { display:block !important;}
+            .flexslider .slides img { width:auto !important;}
+            .nav li.active > a, .nav li > a:hover, .nav li > a:focus, .nav ul li a:hover,
+            .nav li:hover > a{ border-top:none; color:#ffffff;}
+            .nav li.active > a{ border:0;}
+            .nav ul{ opacity:1; left:0; position:static !important; width:auto; border:0;}
+            .nav li{ position:static !important; display:block; float:none; border:0 !important;}
+
+            .nav li > a { float: none;  display: block;  background-color: #ff9f08 !important;  color: #ffffff; margin: 0; padding: 0px 15px;
+                border-radius: 0; border-bottom: 1px solid #ffffff !important;   position: static !important;  border-top: 0;  font-size: 14px !important;}
+
+            .nav ul.sub-menu li > a{ background-color:#464141 !important; font-size:12px !important; padding:0 25px;}
+
+            .style-1 .menuWrapper, .style-2 .menuWrapper, .style-6 .menuWrapper, .style-5 .menuWrapper{ background:#e1e1e1 !important;}
+            .style-1 .nav li > a, .style-1 .nav li > a:hover{background-color: #875506 !important;}
+            .style-1 .nav ul.sub-menu li > a, .style-1 .nav ul.sub-menu li > a:hover{ background-color:#3e2908 !important;}
+
+            .style-2 .nav li > a, .style-2 .nav li > a:hover{background-color: #11372a !important;}
+            .style-2 .nav ul.sub-menu li > a, .style-2 .nav ul.sub-menu li > a:hover{ background-color:#677314 !important;}
+
+            .style-6 .nav li > a, .style-6 .nav li > a:hover{background-color: #f65a64 !important;}
+            .style-6 .nav ul.sub-menu li > a:hover{ background-color:#fff !important;}
+            .style-6 .nav ul.sub-menu li > a { background-color:transparent !important; }
+            .style-6 .menuWrapper .nav li ul li{ border-bottom:1px solid transparent !important;}
+            .style-6 .menuWrapper .nav li a{ border-radius:0 !important; color:#fff !important;}
+            .style-6 .menuWrapper .nav li a:hover{ color:#000 !important;}
+
+            .style-5 .nav li > a, .style-5 .nav li > a:hover{background-color: #fd9c29 !important; color:#ffffff !important;}
+            .style-5 .nav ul.sub-menu li > a, .style-5 .nav ul.sub-menu li > a:hover{ background-color:#464141 !important; color:#ffffff !important;}
+            .style-6 .menuWrapper .nav li ul li a {    margin: 0;    padding: 7px 15px;}
+
+            ul li .socialIcons{ visibility:visible !important;}
+
+        </style>
+    </noscript>
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1726810443307{margin-top: 15px !important;border-bottom-width: 1px !important;border-bottom-color: #efefef !important;border-bottom-style: solid !important;}.vc_custom_1726809948217{padding-bottom: 45px !important;background-color: #f9f9f9 !important;}.vc_custom_1726810207348{padding-top: 35px !important;padding-bottom: 35px !important;background-image: url(https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2019/01/2019011683.jpg?id=1440) !important;}.vc_custom_1547543630151{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1540888028982{padding-bottom: 20px !important;}.vc_custom_1547629099618{padding-top: 25px !important;}.vc_custom_1726810109654{padding-top: 10px !important;background-color: #ffffff !important;}.vc_custom_1726810095934{padding-top: 0px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <!--[if lt IE 9]>
+        <script src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/html5shiv.min.js"></script>
+    <![endif]-->
+    <script>
+        let ajaxurl = ajax_url = ajaxUrl = AJAX_URL = AJAXURL = "https://niepid.nic.in/wp-admin/admin-ajax.php";
+    </script>
+</head>
+<body class="home page-template-default page page-id-1163 lang-en style-1 home-4 wpb-js-composer js-comp-ver-6.11.0 vc_responsive">
+<header id="mainHeader">
+    <!--topBar start-->
+    <div id="topBar">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="push-right topbaright" aria-label="Primary">
+                        <div id="accessibility">
+    <ul id="accessibilityMenu" class="clearfix">
+        <li>
+            <a href="#SkipContent" class="skipContent" aria-label="Skip to main content" title="Skip to main content">
+                <!-- <span class="m-hide">Skip to main content</span>
+                <span class="icon-skip-to-main m-show"></span> -->
+                <img class="show-con" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/skip-to-maincontent.svg" title="Skip to main content" alt="Skip to main content" />
+            </a>
+        </li>
+        <li class="searchbox">
+            <a href="javascript:void(0);" tabindex="0" title="Site Search" aria-label="Site Search" role="button" data-toggle="dropdown">
+                <img class="show-con" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/search_icon.svg" title="Search Icon" alt="Search Icon" />
+            </a>
+            <div class="goiSearch search-form-container">
+                <form action="https://niepid.nic.in/" method="get">
+                    <label for="search" class="hide">Search</label>
+                    <input type="search" placeholder="Search here..." name="s" id="search" value="" />
+                    <button class="accent-color accent-border-color" type="submit" title="Search"><span class="icon-search" ></span><span class="hide">Search</span></button>
+                </form>
+            </div>
+        </li>
+                    <li class="social-media">
+                <a href="javascript:void(0);" tabindex="0" class="social-group-icon" title="Social Media Links" aria-label="Social Media Links" role="button" data-toggle="dropdown">
+                    <img class="show-con" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/social_media.svg" title="Social Icon" alt="Social Icon" />
+                    <span class="hide">Social Media Links</span>
+                </a>
+                <ul class="socialIcons">
+                                            <li><a href="https://www.facebook.com/niepid" target="_blank" aria-label="Facebook | External site that opens in a new window"><img src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/facebook_icon.svg" title="Facebook | External site that opens in a new window" alt="Facebook, External Link that opens in a new window"></a></li>
+                                                                <li><a href="https://twitter.com/NIEPID" target="_blank" aria-label="Twitter | External site that opens in a new window"><img class="icon-twitter" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/twitter_icon.svg" title="Twitter | External site that opens in a new window" alt="Twitter, External Link that opens in a new window"></a></li>
+                                                                                                                                                <li><a href="https://www.youtube.com/@niepidindia8724" target="_blank" aria-label="Youtube | External site that opens in a new window"><img src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/youtube_icon.svg" title="Youtube | External site that opens in a new window" alt="youtube, External Link that opens in a new window"></a></li>
+                                    </ul>
+            </li>
+                                <li class="top-sitemap">
+                    <a href="https://niepid.nic.in/sitemap/" aria-label="Sitemap"  title="Sitemap">
+                        <img class="show-con" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/sitemap.svg" title="Sitemap Icon" alt="Sitemap Icon" />
+                        <span class="hide">Sitemap</span></a>
+                </li>
+                    <li>
+            <a href="javascript:void(0);" tabindex="0" title="Accessibility Links" aria-label="Accessibility Links" class="accessible-icon" role="button" data-toggle="dropdown"><span class="tcon">Accessibility Links</span>
+                <img class="show-con" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/accessibility_icon.svg" title="Accessibility Icon" alt="Accessibility Icon" />
+            </a>
+            <div class="accessiblelinks textSizing">
+                <div class="heading5 text-center">Accessibility Tools</div>
+
+                <div class="mr-top15 mr-left7">Color Contrast</div>
+                <ul aria-label="Color Contrast controls">
+                    <li class="highContrast dark tog-con">
+                        <a href="javascript:void(0);" tabindex="0" title="High Contrast" aria-label="High Contrast">
+                            <em class="fa fa-lightbulb-o acces-icon" aria-hidden="true"></em>
+                            <div>High Contrast</div>
+                        </a>
+                    </li>
+                    <li class="highContrast light">
+                        <a class="link-selected" href="javascript:void(0);" tabindex="0" title="Normal Contrast - Selected" aria-label="Normal Contrast - Selected">
+                            <em class="fa fa-moon-o acces-icon" aria-hidden="true"></em>
+                            <div>Normal Contrast</div>
+                        </a>
+                    </li>
+                    <li class="highlight-links">
+                        <a id="highlightLinks" href="javascript:void(0);" tabindex="0" title="Highlight Links" aria-label="Highlight Links">
+                            <em class="fa fa-link acces-icon" aria-hidden="true"></em>
+                            <div>Highlight Links</div>
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="mr-top15 mr-left7">Text Size</div>
+                <ul aria-label="Font size controls">
+                    <li class="fontSizeEvent">
+                        <a data-selected-text="selected" data-event-type="increase" href="javascript:void(0);" tabindex="0" data-label="Font Size Increase" title="Font Size Increase" aria-label="Font Size Increase">
+                            <em class="fa fa-angle-double-up acces-icon" aria-hidden="true"></em>
+                            <div>Font Size Increase</div>
+                        </a>
+                    </li>
+                    <li class="fontSizeEvent" >
+                        <a data-selected-text="selected" data-event-type="decrease" href="javascript:void(0);" tabindex="0" data-label="Font Size Decrease" title="Font Size Decrease" aria-label="Font Size Decrease">
+                            <em class="fa fa-angle-double-down acces-icon" aria-hidden="true"></em>
+                            <div>Font Size Decrease</div>
+                        </a>
+                    </li>
+                    <li class="fontSizeEvent">
+                        <a data-selected-text="selected" data-event-type="normal" href="javascript:void(0);" tabindex="0" data-label="Normal Font" title="Normal Font" aria-label="Normal Font">
+                            <em class="fa fa-undo acces-icon" aria-hidden="true"></em>
+                            <div>Normal Font</div>
+                        </a>
+                    </li>
+                    <li class="" >
+                        <a id="addletterspacing" data-selected-text="selected" href="javascript:void(0);" tabindex="0" data-label="Text Spacing" title="Text Spacing" aria-label="Text Spacing">
+                            <em class="fa fa-text-width acces-icon" aria-hidden="true"></em>
+                            <div>Text Spacing</div>
+                        </a>
+                    </li>
+                    <li class="" >
+                        <a id="addlineheight" data-selected-text="selected" href="javascript:void(0);" tabindex="0" data-label="Line Height" title="Line Height" aria-label="Line Height">
+                            <em class="fa fa-text-height acces-icon" aria-hidden="true"></em>
+                            <div>Line Height</div>
+                        </a>
+                    </li>
+                </ul>
+
+                                    <div class="mr-top15 mr-left7">Navigation Adjustment</div>
+                    <ul aria-label="Font size controls">
+                        <li>
+                            <a data-selected-text="selected" data-event-type="increase" href="https://niepid.nic.in/help/" tabindex="0" data-label="Screen Reader" title="Screen Reader" aria-label="Screen Reader">
+                                <em class="fa fa-volume-up acces-icon" aria-hidden="true"></em>
+                                <div>Screen Reader</div>
+                            </a>
+                        </li>
+                    </ul>
+                            </div>
+        </li>
+                    <li class="languageCont" aria-label="Change Language">
+                <a href="javascript:void(0);" tabindex="0" class="language link-selected" aria-label="English - Selected" title="English - Selected" role="button" data-toggle="dropdown">English</a>
+                <ul class="socialIcons">
+                                    </ul>
+            </li>
+            </ul>
+</div>
+<script>
+</script>                    </div>
+                    <div class="push-left topbarleft">
+                        <div class="govBranding">
+    <ul>
+        <li>
+            <a lang="" href="javascript:void(0);" >
+                दिव्यांगजन सशक्तिकरण विभाग            </a></li>
+        <li>
+            <a lang="en" href="https://depwd.gov.in/">
+                Department of Empowerment of Persons with Disabilities            </a>
+        </li>
+    </ul>
+</div>                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--topBar end-->
+    <!--header middle start-->
+    <div class="header-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-7">
+                    <div class="logo">
+    <a href="https://niepid.nic.in/" title="Go to home" class="site_logo" rel="home">
+                    <img id="logo" class="emblem" src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/emblem.svg" alt="State Emblem of India">
+        
+        <div class="logo_text">
+            <strong lang="">
+                राष्ट्रीय बौद्धिक दिव्यांगजन सशक्तिकरण संस्थान            </strong>
+                            <h1 class="h1-logo">NATIONAL INSTITUTE FOR THE EMPOWERMENT OF PERSONS WITH INTELLECTUAL DISABILITIES (DIVYANGJAN)</h1>
+                                </div>
+    </a>
+</div>                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+                    <div class="header-right hidden-xs push-right">
+                <a aria-label=" - External site that opens in a new window" href="https://niepid.nic.in/" target= "_blank" title="">
+            <img class="sw-logo" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409121913074416.png" alt="NIEPID">
+        </a>
+                <a aria-label=" - External site that opens in a new window" href="https://www.swavlambancard.gov.in/" target= "_blank" title="">
+            <img class="sw-logo" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240912282747915.png" alt="Swavlamban">
+        </a>
+    </div>                    <a class="menuToggle" href="javascript:void(0);"> <span class="icon-menu" aria-hidden="true"></span> <span class="menu-text">Menu Toggle</span> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--header middle end-->
+    <!--main menu start-->
+<div class="menuWrapper">
+    <div class="menuMoreText hide">More</div>
+    <div class="container">
+        <nav class="menu"><ul id="menu-header-en" class="nav clearfix"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-4 active "><a href="/">Home</a></li>
+<li id="menu-item-7185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7185 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">About Us<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6529 has-sub-child"><a href="https://niepid.nic.in/about-us-niepid/" tabindex="-1">NIEPID</a></li>
+	<li id="menu-item-6515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6515 has-sub-child"><a href="https://niepid.nic.in/academic/" tabindex="-1">Academic</a></li>
+	<li id="menu-item-6516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6516 has-sub-child"><a href="https://niepid.nic.in/library/" tabindex="-1">Library</a></li>
+	<li id="menu-item-6534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6534 has-sub-child"><a href="https://niepid.nic.in/citizens-charter/" tabindex="-1">Citizens Charter</a></li>
+	<li id="menu-item-7147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7147 has-sub-child"><a href="https://niepid.nic.in/moa/" tabindex="-1">MOA</a></li>
+	<li id="menu-item-7148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7148 has-sub-child"><a href="https://niepid.nic.in/bye-laws/" tabindex="-1">BYE – LAWS</a></li>
+</ul>
+</li>
+<li id="menu-item-7186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7186 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">Services<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-6532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6532 has-sub-child"><a href="https://niepid.nic.in/general-service/" tabindex="-1">General Service</a></li>
+	<li id="menu-item-6531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6531 has-sub-child"><a href="https://niepid.nic.in/r-d-projects/" tabindex="-1">R &amp; D Projects</a></li>
+	<li id="menu-item-7324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7324 has-sub has-sub-child"><a href="#" tabindex="-1" aria-haspopup="true" aria-expanded="false">Programs &amp; Interventions<span class="indicator"></span></a>
+	<ul aria-hidden="true"  class="sub-menu">
+		<li id="menu-item-7321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7321 has-sub-child"><a href="https://niepid.nic.in/human-resource-development-2/" tabindex="-1">Human Resource Development</a></li>
+		<li id="menu-item-7322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7322 has-sub-child"><a href="https://niepid.nic.in/human-resource-development/" tabindex="-1">Rehabilitation Services</a></li>
+		<li id="menu-item-7320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7320 has-sub-child"><a href="https://niepid.nic.in/r-d-projects-2/" tabindex="-1">R &amp; D Projects</a></li>
+		<li id="menu-item-7319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7319 has-sub-child"><a href="https://niepid.nic.in/north-east-activities/" tabindex="-1">North East Activities</a></li>
+		<li id="menu-item-7318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7318 has-sub-child"><a href="https://niepid.nic.in/adip-tlm-distribution/" tabindex="-1">ADIP-TLM Distribution</a></li>
+		<li id="menu-item-7317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7317 has-sub-child"><a href="https://niepid.nic.in/job-placement-report/" tabindex="-1">Job Placement Report</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7187 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">Publications<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-7664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7664 has-sub-child"><a href="https://niepid.nic.in/interactive-videos-2/" tabindex="-1">Interactive Videos</a></li>
+	<li id="menu-item-6604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6604 has-sub-child"><a href="https://niepid.nic.in/awareness-videos/" tabindex="-1">Awareness Videos</a></li>
+	<li id="menu-item-6603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6603 has-sub-child"><a href="https://niepid.nic.in/awareness-posters/" tabindex="-1">Awareness Posters</a></li>
+	<li id="menu-item-6605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6605 has-sub-child"><a href="https://niepid.nic.in/list-of-publications/" tabindex="-1">List of Publications</a></li>
+	<li id="menu-item-6600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6600 has-sub-child"><a href="https://niepid.nic.in/publications-at-a-glance/" tabindex="-1">Publications at a Glance</a></li>
+	<li id="menu-item-6599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6599 has-sub-child"><a href="https://niepid.nic.in/publications-to-browse/" tabindex="-1">Publications to Browse</a></li>
+</ul>
+</li>
+<li id="menu-item-7188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7188 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">NIEPID Reports<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-6598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6598 has-sub-child"><a href="https://niepid.nic.in/annual-reports/" tabindex="-1">Annual Reports</a></li>
+	<li id="menu-item-6608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6608 has-sub-child"><a href="https://niepid.nic.in/conference-proceedings/" tabindex="-1">Conference Proceedings</a></li>
+	<li id="menu-item-7192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7192 has-sub has-sub-child"><a href="#" tabindex="-1" aria-haspopup="true" aria-expanded="false">NIEPID RTI Reports<span class="indicator"></span></a>
+	<ul aria-hidden="true"  class="sub-menu">
+		<li id="menu-item-6983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6983 has-sub-child"><a href="https://niepid.nic.in/administration/" tabindex="-1">Administration</a></li>
+		<li id="menu-item-6982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6982 has-sub-child"><a href="https://niepid.nic.in/academics/" tabindex="-1">Academics</a></li>
+		<li id="menu-item-6980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6980 has-sub-child"><a href="https://niepid.nic.in/accounts/" tabindex="-1">Accounts</a></li>
+		<li id="menu-item-6981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6981 has-sub-child"><a href="https://niepid.nic.in/estate/" tabindex="-1">Estate</a></li>
+		<li id="menu-item-6596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6596 has-sub-child"><a href="https://niepid.nic.in/rti-monthly-report/" tabindex="-1">RTI Yearly Report</a></li>
+		<li id="menu-item-7506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7506 has-sub-child"><a href="https://niepid.nic.in/rti-audit-summary-report/" tabindex="-1">RTI Audit Summary Report</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6609 has-sub-child"><a href="https://niepid.nic.in/karavalamban/" tabindex="-1">Karavalamban</a></li>
+	<li id="menu-item-6591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6591 has-sub-child"><a href="https://niepid.nic.in/achievements/" tabindex="-1">Achievements</a></li>
+</ul>
+</li>
+<li id="menu-item-7189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7189 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">Schemes<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-7193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7193 has-sub has-sub-child"><a href="#" tabindex="-1" aria-haspopup="true" aria-expanded="false">Schemes and Benefits<span class="indicator"></span></a>
+	<ul aria-hidden="true"  class="sub-menu">
+		<li id="menu-item-7028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7028 has-sub has-sub-child"><a href="https://niepid.nic.in/sipda/" tabindex="-1" aria-haspopup="true" aria-expanded="false">SIPDA<span class="indicator"></span></a>
+		<ul aria-hidden="true"  class="sub-menu">
+			<li id="menu-item-7058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7058 has-sub-child"><a href="https://niepid.nic.in/creation-of-barrier-free-environment/" tabindex="-1">Creation of Barrier Free Environment</a></li>
+			<li id="menu-item-7057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7057 has-sub-child"><a href="https://niepid.nic.in/accessible-india-campaign/" tabindex="-1">Accessible India Campaign</a></li>
+			<li id="menu-item-7056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7056 has-sub-child"><a href="https://niepid.nic.in/national-action-plan-for-skill-development-of-persons-with-disabilities-nap-sdp/" tabindex="-1">National Action Plan for Skill Development of Persons with Disabilities (NAP-SDP)</a></li>
+			<li id="menu-item-7055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7055 has-sub-child"><a href="https://niepid.nic.in/unique-disability-id-udid/" tabindex="-1">Unique Disability ID (UDID)</a></li>
+			<li id="menu-item-7054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7054 has-sub-child"><a href="https://niepid.nic.in/awareness-generation-and-publicity-agp-in-service-training/" tabindex="-1">Awareness Generation and Publicity (AGP) &amp; In Service Training</a></li>
+			<li id="menu-item-7053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7053 has-sub-child"><a href="https://niepid.nic.in/research-on-disability-related-technology-products-and-issues/" tabindex="-1">Research on Disability related Technology, Products and Issues</a></li>
+			<li id="menu-item-7052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7052 has-sub-child"><a href="https://niepid.nic.in/cross-disability-early-intervention-centres/" tabindex="-1">Cross-Disability Early Intervention Centres</a></li>
+			<li id="menu-item-7059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7059 has-sub-child"><a href="https://niepid.nic.in/dalm-project/" tabindex="-1">DALM Project</a></li>
+			<li id="menu-item-7051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7051 has-sub-child"><a href="https://niepid.nic.in/cpmu-cum-data-strategy-unit/" tabindex="-1">CPMU cum Data Strategy Unit</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-7027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7027 has-sub-child"><a href="https://niepid.nic.in/national-fund-for-pwds/" tabindex="-1">National Fund for PwDs</a></li>
+	<li id="menu-item-7026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7026 has-sub-child"><a href="https://niepid.nic.in/adip/" tabindex="-1">ADIP</a></li>
+	<li id="menu-item-7025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7025 has-sub-child"><a href="https://niepid.nic.in/ddrs/" tabindex="-1">DDRS</a></li>
+	<li id="menu-item-7024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7024 has-sub-child"><a href="https://niepid.nic.in/scholarship/" tabindex="-1">Scholarship</a></li>
+	<li id="menu-item-6593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6593 has-sub-child"><a href="https://niepid.nic.in/acts-and-policies/" tabindex="-1">Acts and Policies</a></li>
+	<li id="menu-item-6589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6589 has-sub-child"><a href="https://niepid.nic.in/ddrc/" tabindex="-1">DDRC</a></li>
+</ul>
+</li>
+<li id="menu-item-6590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6590"><a href="https://niepid.nic.in/directory-of-institutions/">Directory of Institutions</a></li>
+<li id="menu-item-7190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7190 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">Governance<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-6587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6587 has-sub-child"><a href="https://niepid.nic.in/general-council/" tabindex="-1">General Council</a></li>
+	<li id="menu-item-6586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6586 has-sub-child"><a href="https://niepid.nic.in/executive-council/" tabindex="-1">Executive Council</a></li>
+	<li id="menu-item-6585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6585 has-sub-child"><a href="https://niepid.nic.in/academic-committee/" tabindex="-1">Academic Committee</a></li>
+	<li id="menu-item-6584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6584 has-sub-child"><a href="https://niepid.nic.in/purchase-committee/" tabindex="-1">Purchase Committee</a></li>
+</ul>
+</li>
+<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="https://niepid.nic.in/whos-who/">Who’s Who</a></li>
+<li id="menu-item-7191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7191 has-sub"><a href="#" aria-haspopup="true" aria-expanded="false">Contact Us<span class="indicator"></span></a>
+<ul aria-hidden="true"  class="sub-menu">
+	<li id="menu-item-6623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6623 has-sub-child"><a href="https://niepid.nic.in/contact-us-niepid/" tabindex="-1">NIEPID</a></li>
+	<li id="menu-item-6622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6622 has-sub-child"><a href="https://niepid.nic.in/rcs-crcs/" tabindex="-1">RC’s &amp; CRC’s</a></li>
+</ul>
+</li>
+<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://niepid.nic.in/?page_id=199">Photo Gallery</a></li>
+<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://niepid.nic.in/video-gallery/">Video Gallery</a></li>
+</ul></nav>    </div>
+</div>
+<!--main menu end-->
+<div id="overflowMenu">
+    <div class="ofMenu">
+        <ul></ul>
+    </div>
+    <a href="#" title="Close" class="closeMenu"><span class="icon-close" aria-hidden="true"></span> Close</a>
+</div>
+</header>
+<main>
+<div id="SkipContent"></div>    <!--section-row start-->
+    <section class="section-row apply-in-home">
+        <div class="container">
+                    </div>
+        <div class="container" id="row-content">
+                                <div class="row">
+                        <div class="col-xs-12">
+                            <section class="wpb-content-wrapper"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">        <div id="slide" class="home-slider full-cntrl-right-caption-bottom   flexslider home-seven-banner">
+            <ul class="slides">
+                                            <li>
+                                <img src='https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131342278354.jpg' alt='Signing of MoUs under the Chairpersonship of Dr. Virendra Kumar.'/>                                                                        <div class="container">
+                                        <div class="slide-caption caption-white caption-color-black">
+                                        <p class="heading3">Signing of MoUs under the Chairpersonship of Dr. Virendra Kumar.</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                                        <li>
+                                <img src='https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240913713544687.jpg' alt='Signing of MoUs under the Chairpersonship of Dr. Virendra Kumar.'/>                                                                        <div class="container">
+                                        <div class="slide-caption caption-white caption-color-black">
+                                        <p class="heading3">Signing of MoUs under the Chairpersonship of Dr. Virendra Kumar.</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                                        <li>
+                                <img src='https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131450290163.jpg' alt='Flagging off ceremony of "Mobile Therapy Buses" by Sh. Rajesh Aggarwal'/>                                                                        <div class="container">
+                                        <div class="slide-caption caption-white caption-color-black">
+                                        <p class="heading3">Flagging off ceremony of "Mobile Therapy Buses" by Sh. Rajesh Aggarwal</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                                        <li>
+                                <img src='https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/12/2024123145116561.jpg' alt='Shri Ramdas Athawale, Minister of State for Social Justice & Empowerment visited NIEPID'/>                                                                        <div class="container">
+                                        <div class="slide-caption caption-white caption-color-black">
+                                        <p class="heading3">Shri Ramdas Athawale, Minister of State for Social Justice &amp; Empowerment visited NIEPID</p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                                        <li>
+                                <img src='https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2025/01/202501071879560809.jpg' alt=''/>                                                                        <div class="container">
+                                        <div class="slide-caption caption-white caption-color-black">
+                                        <p class="heading3"></p>
+                                            <p></p>
+
+                                        </div>
+                                    </div>
+                                                                                                    </li>
+                                        </ul>
+        </div>
+        <script>   
+
+       jQuery(document).ready(function($) {
+        let controlsDisable = false
+        controlsDisable = true
+            $('.home-slider').flexslider({
+                animation: ($('body').hasClass('rtl'))?"fade":"slide",
+                directionNav: controlsDisable,
+                pausePlay: controlsDisable,
+                controlNav: controlsDisable,
+                start: function(slider){
+                    $('body').find('.flexslider').resize();
+                    if(slider.count==1){
+                        slider.pausePlay.parent().remove();
+                    }
+                    $('.flexslider ul.slides li.clone a').each(function() {
+                        $(this).replaceWith($(this).html());
+                    })
+                }
+                
+            });
+        });
+        
+
+    </script>
+	<div class="wrapper" id="skipCont"></div>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid accent-fixed-color vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1547543630151"><div class="wpb_wrapper">            <div class="news-ticker-horizontal viewall-with-cntrls nth-flexslider color-white  title-left show-controls   " >
+                    <h2 class="pd-20 title-font-bold">Announcements</h2>
+                <div class="newsticker flexslider pd-20">
+            <ul class="slides">
+                                            <li>
+                                                <a class="with-urlchange" href="#"  >
+                            To access National Helpline Number for all disabilities, Dial - Toll Free Number 14456                                                            <span class="latest-news">New</span>
+                                                    </a>
+                                            </li>
+                                <li>
+                                                    <div class="with-urlchange">
+                                 NIEPID Toll Free Number- 1800 572 6422                                                                      <span class="latest-news">New</span>
+                                                             </div>
+                                            </li>
+                                <li>
+                                                <a class="with-urlchange" href="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240921572706905.pdf"  >
+                            NIEPID Indian Test of Intelligence Kit                                                            <span class="latest-news">New</span>
+                                                    </a>
+                                            </li>
+                                <li>
+                                                <a class="with-urlchange" href="https://docs.google.com/forms/d/e/1FAIpQLScT0fweohRBrk3wzCsFr78cQoip4UGZZ-S0o537Oa0xnBiDUg/viewform"  >
+                            Mailing List Update of Organisation working in the field of Intellectual Disability                                                            <span class="latest-news">New</span>
+                                                    </a>
+                                            </li>
+                                <li>
+                                                    <div class="with-urlchange">
+                                 Avail Family Cottage Service                                                             </div>
+                                            </li>
+                                <li>
+                                                    <div class="with-urlchange">
+                                 Avail Respite Care Service                                                             </div>
+                                            </li>
+                    </ul>
+        </div>
+        
+    </div>
+    <script>
+        jQuery(document).ready(function($) {
+            jQuery(".newsticker").flexslider({
+                animation: "slide",
+                directionNav: true,
+                pausePlay: true,
+                maxItems: 1,
+                controlNav: false,
+                slideshowSpeed: 5000,
+                prevText: "<span class='hide'>Previous</span>",
+                nextText: "<span class='hide'>Next</span>",
+                pauseText: "<span class='hide'>Pause</span>",
+                playText: "<span class='hide'>PlayPlay</span>",
+                start: function(){
+                    $('.newsticker ul.slides li.clone a').each(function() {
+                        $(this).replaceWith($(this).html());
+                    })
+                }
+            });
+        });
+    </script>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1726810443307 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner vc_custom_1540888028982"><div class="wpb_wrapper"><h2>About NIEPID</h2><p></p>
+<blockquote>
+<p><img decoding="async" class="size-medium wp-image-6666 alignleft" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-300x121.jpg" alt="oplus_0" width="300" height="121" srcset="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-300x121.jpg 300w, https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-1024x412.jpg 1024w, https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-768x309.jpg 768w, https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-1536x619.jpg 1536w, https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409131000203063-2048x825.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="fontsizee" align="justify"><span class="fontabout"><b>National Institute for the Empowerment of Persons with Intellectual Disabilities (Formerly National Institute for the Mentally Handicapped)</b> established in the year 1984 at Manovikasnagar, Secunderabad (TS) is an Autonomous Body under the administrative control of Deparment of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice &amp; Empowerment, Government of India. NIEPID (Formely NIMH) is dedicated to provide quality services to Persons with Intellectual Disabilities (Divyangjan) in the National interest.</span><span class="style60"> </span></p>
+</blockquote>
+<p></p><a aria-label="Read More" title="Read More" href="https://niepid.nic.in/about-department/introduction/" class="btn btn-style-outline accent-color accent-border-color">Read More</a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner vc_custom_1547629099618"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><h2>What&#039;s New</h2><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-square vc_tta-spacing-10  tab-theme-seven vc_tta-o-no-fill vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1726204960254-9571d682-6ded" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Notice</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1726760384860-a3075fbe-06ca" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Admission Notification</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#tender" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tenders</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#Careers" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Careers</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1726204960254-9571d682-6ded" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1726204960254-9571d682-6ded" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Notice</span></a></h4></div><div class="vc_tta-panel-body">        <div class="gen-list    no-border no-bg  padding-0 border-radius-medium default-list  ">
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/walk-in-interviews-for-empanelemnt-of-guest-faculty-staff-at-various-levels-at-niepid-secunderabad-its-regional-centers-noida-navi-mumbai-and-its-crcs/"  >Walk in Interviews for Empanelment of Guest Faculty/Staff at Various levels at NIEPID, Secunderabad &amp; its Regional Centers – Noida &amp; Navi Mumbai and its CRC&#8217;s.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/select-list-wait-list-for-the-group-a-post-of-lecturer-occupational-therapy-ur-in-level-10-at-crc-davangere-selection-committee-meeting-held-on-21-10-2025/"  >Select list/Wait list for the Group A post of Lecturer (Occupational Therapy) (UR) in Level-10 at CRC-Davangere &#8211; Selection Committee Meeting Held on 21.01.2025</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/select-list-waitlist-for-various-contractual-positions-at-niepid-hqs-and-its-crcs-at-rajandgaon-and-nellore-against-notificcation-no-01-2024-selection-committee-meetings-held-on-10-01-2025/"  >Select list/waitlist for various contractual positions at NIEPID HQs and its CRCs at Rajandgaon and Nellore against notificcation no. 01/2024 &#8211; Selection committee meetings held on 10.01.2025</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/announcement-letter-and-application-registration-link-for-special-employees-national-meet-2025/"  >Announcement Letter and Application registration link for 30th National Meet for the Special Employees* on 29th &amp; 30th January, 2025.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/list-of-holidays-during-the-year-2025/"  >List of Holidays during the year 2025</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/life-certificate-form-for-the-pensioners-of-niepid/"  >Life Certificate Form for the Pensioners of NIEPID</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/internship-and-data-collection-opportunities-at-niepid/"  >Internship and Data Collection opportunities at NIEPID</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/enhancement-of-fee-for-various-services-offered-at-niepid/"  >Enhancement of fee for various services offered at NIEPID.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/niepid-is-compiling-a-list-of-special-schools-functioning-in-the-states-union-territories-for-onward-submission-to-the-depwd-msje-goi/"  >NIEPID is compiling a list of Special Schools functioning in the States/Union Territories for onward submission to the DEPwD, MSJ&amp;E, GoI.</a>
+                                    </li>
+                        </ul>
+                        <a href="https://niepid.nic.in/notice/"  class="btn btn-style-outline accent-color accent-border-color" aria-label="View All" title="View All">View All</a>
+
+                        </div>
+        
+      </div></div><div class="vc_tta-panel" id="1726760384860-a3075fbe-06ca" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1726760384860-a3075fbe-06ca" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Admission Notification</span></a></h4></div><div class="vc_tta-panel-body">        <div class="gen-list    no-border no-bg  padding-0 border-radius-none arrow-list  ">
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/admission-notification-2024-2025/"  >Admission Notification 2024-2025</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/admission-notification-for-diploma-in-indian-sign-language-interpretation-disli/"  >Admission Notification for Diploma in Indian Sign Language Interpretation (DISLI).</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/prospectus-cum-application-form-for-admission-into-certificate-course-in-care-giving-for-parents-cccgp/"  >Prospectus cum Application Form for admission into Certificate Course in Care Giving for Parents (CCCGP)</a>
+                                    </li>
+                        </ul>
+                        <a href="#"  class="btn btn-style-outline accent-color accent-border-color" aria-label="View All" title="View All">View All</a>
+
+                        </div>
+        
+      </div></div><div class="vc_tta-panel" id="tender" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#tender" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tenders</span></a></h4></div><div class="vc_tta-panel-body">        <div class="gen-list    no-border no-bg  padding-0 border-radius-none arrow-list  ">
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/tender-for-running-of-canteen-at-niepid-secunderabad/"  >Tender for Running of Canteen at NIEPID, Secunderabad</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/procurement-and-installation-of-cctv-cameras-30-nos-at-crc-rajnandgaon/"  >Procurement and Installation of CCTV Cameras (30 nos) at CRC Rajnandgaon.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/tender-for-modular-partition-for-ground-floor-at-millennium-block-for-administration-of-niepid-secunderabad/"  >Tender for Modular Partition for Ground floor at Millennium block for Administration of NIEPID, Secunderabad</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/tender-for-printing-and-supply-of-niepid-publications-63-nos-including-paper/"  >Tender for Printing and Supply of NIEPID Publications 63 nos including paper.</a>
+                                    </li>
+                        </ul>
+                        <a href="#"  class="btn btn-style-outline accent-color accent-border-color" aria-label="View All" title="View All">View All</a>
+
+                        </div>
+        
+      </div></div><div class="vc_tta-panel" id="Careers" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#Careers" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Careers</span></a></h4></div><div class="vc_tta-panel-body">        <div class="gen-list    no-border no-bg  padding-0 border-radius-none arrow-list  ">
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/walk-in-interviews-for-empanelemnt-of-guest-faculty-staff-at-various-levels-at-niepid-secunderabad-its-regional-centers-noida-navi-mumbai-and-its-crcs/"  >Walk in Interviews for Empanelment of Guest Faculty/Staff at Various levels at NIEPID, Secunderabad &amp; its Regional Centers – Noida &amp; Navi Mumbai and its CRC&#8217;s.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/select-list-wait-list-for-the-group-a-post-of-lecturer-occupational-therapy-ur-in-level-10-at-crc-davangere-selection-committee-meeting-held-on-21-10-2025/"  >Select list/Wait list for the Group A post of Lecturer (Occupational Therapy) (UR) in Level-10 at CRC-Davangere &#8211; Selection Committee Meeting Held on 21.01.2025</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/select-list-waitlist-for-various-contractual-positions-at-niepid-hqs-and-its-crcs-at-rajandgaon-and-nellore-against-notificcation-no-01-2024-selection-committee-meetings-held-on-10-01-2025/"  >Select list/waitlist for various contractual positions at NIEPID HQs and its CRCs at Rajandgaon and Nellore against notificcation no. 01/2024 &#8211; Selection committee meetings held on 10.01.2025</a>
+                                    </li>
+                        </ul>
+                        <a href="https://niepid.nic.in/career/"  class="btn btn-style-outline accent-color accent-border-color" aria-label="View All" title="View All">View All</a>
+
+                        </div>
+        
+      </div></div></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1726809948217 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">        <div class="gen-list    no-border no-bg  padding-0 border-radius-none default-list  ">
+                        <h2 class="title-font-bold title-font-black">Beneficiaries List</h2>
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/list-of-trainees-on-the-niepid-indian-test-of-intelligence/"  >List of Trainees on the NIEPID Indian Test of Intelligence</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/details-of-adip-beneficiaries-for-the-year-2023-24-2/"  >Details of ADIP beneficiaries for the year 2024-25</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/details-of-adip-beneficiaries-for-the-year-2023-24/"  >Details of ADIP beneficiaries for the year 2023 -24</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/details-of-beneficiaries-of-free-laptops-under-sc-st-fund-persons-with-intellectual-disabilities-in-age-group-15-18-years-and-sc-st-professionals-training-programme/"  >Details of beneficiaries of free laptops under SC/ST fund (Persons with Intellectual Disabilities in age group 15 -18 years and SC/ST professionals training programme)</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/beneficiaries-of-free-supply-of-laptops-to-long-term-course-students-belonging-to-sc-st/"  >Beneficiaries of Free Supply of laptops to Long term Course Students belonging to SC/ST.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/north-east-distribution-camp/"  >North East Distribution Camp</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/details-of-skill-training-program-beneficiaries/"  >Details of Skill Training Program Beneficiaries</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/details-of-adip-beneficiaries-from-2009-2015/"  >Details of ADIP beneficiaries from 2009-2015</a>
+                                    </li>
+                        </ul>
+                </div>
+        
+      </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">        <div class="gen-list    no-border no-bg  padding-0 border-radius-none default-list  ">
+                        <h2 class="title-font-bold title-font-black">Short Term Training /CRE Programs 2024-2025</h2>
+                    <ul>
+                            <li>
+                    <a  href="https://niepid.nic.in/schedule-of-online-offline-short-term-training-program-2024-2025/"  >Schedule of Online/Offline Short Term Training Program (2024-2025)</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/list-of-cre-programs-2024-2025-at-niepid-navi-mumbai/"  >List of CRE programs (2024-2025) at NIEPID Navi Mumbai.</a>
+                                    </li>
+                                <li>
+                    <a  href="https://niepid.nic.in/revised-rates-of-short-term-training-programs-certificate-courses-block-placement-internship/"  >Revised Rates of Short Term Training Programs, Certificate Courses &amp; Block Placement/ Internship</a>
+                                    </li>
+                        </ul>
+                </div>
+        
+      </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+		<div class="gen-list no-border no-bg padding-0 border-radius-none arrow-list  col-two normal-font  ">
+		<h2 class="title-font-bold title-font-black">Important Links</h2>		<ul>
+						<li  class="  ">
+								<a href="https://www.swavlambancard.gov.in/"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">UDID Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://pmdaksh.depwd.gov.in/login"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">PM DAKSH Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://ndfdc.nic.in/"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">NDFDC Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://adip.depwd.gov.in/"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">ADIP Arjun Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://scholarships.gov.in/"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">Scholarships Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://pgportal.gov.in/"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">CPGRAMS Portal				</div>
+								</a>
+			 				</li>
+								<li  class="  ">
+								<a href="https://grants-msje.gov.in/bo-login#"  target="_blank" style="">
+								<span class="list-icon -bg  border-radius-round"></span>
+								<div class="list-text">e-Anudaan Portal				</div>
+								</a>
+			 				</li>
+						</ul>
+				</div>
+		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid accent-fixed-color vc_custom_1726810207348 vc_row-has-fill vc_column-gap-20 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-5 vc_col-has-fill"><div class="vc_column-inner vc_custom_1726810109654"><div class="wpb_wrapper">  <div class="dynamic-card-wrapper left ">
+      <h2 class="title-font-bold title-font-black"><span class=""></span> Events</h2>
+         	<div class="gen-card dynamic-card gen-card-with-image genCard-horizontal-content gen-card-with-image   no-border  padding-0">
+
+		                        <div class="gen-card-img show-original-img"><img decoding="async" alt="No Image" src="https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/img/no_image2.jpg"></div>
+		          <div class="gen-card-content">
+            <h3 class="heading5"><a href="https://niepid.nic.in/event/no-event/">No Event</a></h3>
+						           
+            </div>
+            </div>
+            </div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner vc_custom_1726810095934"><div class="wpb_wrapper">     <div class="photo-glry-cntr flexslider   thumb-right  with-border">
+
+                    <div class="gallery-heading">
+      <h2 class="title-font-bold">Photo Gallery</h2>
+            <a class="bttn-more bttn-view btn-style-outline accent-color" href="https://niepid.nic.in/photo-gallery/" target="_self" title=
+      "View All" aria-label="View All"><span>View All</span></a>
+           </div>
+
+<ul class="slides">
+                                                                                        <li data-thumb="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915738149232.jpeg">
+                                                                  <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915738149232.jpeg" alt="Signing of MoUs under the Chairpersonship of HMSJE 22nd July, 24"/>
+                                                                  </li>
+                                                                                                <li data-thumb="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915293301015.jpeg">
+                                                                  <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915293301015.jpeg" alt="Signing of MoUs under the Chairpersonship of HMSJE 22nd July, 24"/>
+                                                                  </li>
+                                                                                                <li data-thumb="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915504247320.jpeg">
+                                                                  <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915504247320.jpeg" alt="Signing of MoUs under the Chairpersonship of HMSJE 22nd July, 24"/>
+                                                                  </li>
+                                                    </ul>
+    </div>
+    
+   <script>
+jQuery(document).ready(function(e) {
+//=========================
+jQuery('.thumb-bottom-scroll').flexslider({
+        animation: "fade",
+        controlNav: false,
+        animationLoop: false,
+        slideshow: false,
+        sync: ".thumb-bottom-crucel"
+}),
+jQuery('.thumb-bottom-crucel').flexslider({
+        animation: "slide",
+        controlNav: false,
+        animationLoop: false,
+        slideshow: false,
+        itemWidth: 210,
+        //itemMargin: 5,
+        asNavFor: ".thumb-bottom-scroll"
+     }),
+//=========================
+
+jQuery('.thumb-bottom').flexslider({
+        animation: "fade",
+        controlNav: "thumbnails",
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+        }
+      });
+//=========================
+jQuery('.no-thumb').flexslider({
+        animation: "fade",
+        controlNav: false,
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+        }
+      });
+//=========================
+jQuery('.thumb-right').flexslider({
+        animation: "fade",
+        controlNav: "thumbnails",
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+        }
+      });
+//=========================
+jQuery('.thumb-left').flexslider({
+        animation: "fade",
+        controlNav: "thumbnails",
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+        }
+      });
+
+//=========================
+
+    //Main slider components start
+    jQuery(".full-cntrl-center-caption-blank").flexslider({
+        animation: "slide",
+        directionNav: true,
+        prevText: "Previous",
+        nextText: "Next",
+        pausePlay: true,
+        pauseText: "Pause",
+        playText: "Play",
+        controlNav: true
+        })
+
+});
+   </script>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><strong>CONTACT US</strong></h3>
+<p><strong>Name:</strong> National Institute for the Empowerment of the Persons with Intellectual Disabilities, Divyangjan (NIEPID)</p>
+<p><strong>Email: </strong>nimh[dot]director[at]gmail[dot]com</p>
+<p><strong>Phone:</strong> +91-40-27751741-45</p>
+<p><strong>Address:</strong> Manovikas Nagar, Bowenpally, Secunderabad, Telangana 500009</p>
+<p><strong>Toll free Helpline Number :</strong> 1800 572 6422</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_gmaps_widget wpb_content_element"><div class="wpb_wrapper"><div class="wpb_map_wraper"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.8143443105273!2d78.48784587390799!3d17.468597900463052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9a64711ca0eb%3A0x4a521f7bcfcfc3a4!2sNational%20Institute%20for%20the%20Empowerment%20of%20Persons%20with%20Intellectual%20Disabilities!5e0!3m2!1sen!2sin!4v1727266047834!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	
+    <section id="footerScrollbarWrapper" class="footerlogocarousel withbg withborder " aria-label="Other Important Links">
+        <div class="footerlogocarousel-outer item-count-15" data-flexcontrol='{"animation":"slide","animationLoop":"true","itemWidth":201,"minItems":2,"move":1,"controlNav":false,"pauseText":"Pause","playText":"Play","slideshow":true,"directionNav":true,"pausePlay":true}'>
+            <div class="footerScrollbar flexslider">
+                <ul class="slides" aria-label="Important Sites">
+                                                <li>
+                                                                    <a href="https://depwd.gov.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915128500077.png"  alt="Depwd"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://rehabcouncil.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915634528295.png"  alt="RCI"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://ndfdc.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915739077585.png"  alt="NDHFDC LOGO"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://thenationaltrust.gov.in/content/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151051437499.png"  alt="NATIONAL TRUST"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://rti.gov.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151278302264.png"  alt="RTI"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://alimco.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151785911370.png"  alt="ALIMCO"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://niepmd.tn.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151287145484.png"  alt="NIEPMD"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://pdunippd.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/2024091515495773.png"  alt="IPH"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://islrtc.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151130590562.png"  alt="ISLRTC"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://nivh.gov.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915458951676.png"  alt="NIEPVD"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://ayjnihh.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915904974678.png"  alt="NIHH"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://www.niohkol.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151860171154.png"  alt="NILD"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://svnirtar.nic.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/202409151900428029.png"  alt="SVNIRTAR"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://nimhr.ac.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915185517685.png"  alt="NIMHR"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                                        <li>
+                                                                    <a href="https://www.nisd.gov.in/" target="_blank">
+                                        <img decoding="async" src="https://cdnbbsr.s3waas.gov.in/s3ca43108ded5aabc7793d3f9b928cdd54/uploads/2024/09/20240915828967333.jpg"  alt="NISD LOGO"/>                                    </a>
+                                                                                                        <div class="caption"></div>
+                                                            </li>
+                                            </ul>
+            </div>
+        </div>
+		    </section>
+	     <script>
+     jQuery(document).ready(function($){
+        $(".footerScrollbar").each(function () {
+            if($(this).find('.flex-viewport').length == 0){
+                $(this).flexslider($(this).parent().data('flexcontrol'));
+            }
+
+        })
+    });
+    </script>
+    </div></div></div></div>
+</section>                                                    </div>
+                    </div>
+                    </div>
+    </section>
+</main>
+<footer id="mainFooter" class="no-print">
+    <div class="footer-top">
+        <div class="container">
+            <div class="col-xs-12 text-center">
+                <div class="footerMenu"><ul id="menu-footer-en" class="menu"><li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://niepid.nic.in/feedback/">Feedback</a></li>
+<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-737"><a href="https://niepid.nic.in/website-policies/">Website Policies</a></li>
+<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="https://niepid.nic.in/help/">Help</a></li>
+<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://niepid.nic.in/web-information-manager/">Web Information Manager</a></li>
+</ul></div>            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="copyRights">
+                        <div class="copyRightsText">
+                            <p class="mr-none">
+                                Content Owned by&nbsp;NIEPID                            </p>
+                            <p>Developed and hosted by <a href="http://www.nic.in/" target="_blank">National Informatics Centre</a>, <br><a href="http://meity.gov.in/" target="_blank">Ministry of Electronics & Information Technology</a>, Government of India</p>
+                                                            <p>Last Updated: <strong>Feb 15, 2025</strong></p>
+                                                                                </div>
+                        <div class="copyRightsLogos">
+                                                            <a href="https://s3waas.gov.in/"><img src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/S3WaaS.svg" class="swaas" alt="Secure, Scalable and Sugamya Website as a Service"></a>
+                                                        <a href="http://www.nic.in/"><img src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/NIC.svg" class="nic"  alt="National Informatics Centre"></a>
+                            <a href="http://www.digitalindia.gov.in/"><img src="https://niepid.nic.in/wp-content/themes/sdo-theme/images/Digital-India.svg" alt="Digital India"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--a class="top" href="#top"><span class="icon-arrow-top"></span></a-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-L9XDHT99DW"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('set', 'cookie_flags', 'SameSite=Lax;Secure');
+            gtag('config', 'G-L9XDHT99DW');
+        </script>
+            <script>
+        jQuery(document).ready(function($){
+            jQuery('body').find('a.flex-pause').attr('href',"javascript:void(0)");
+            $('.flex-direction-nav a.flex-prev').attr({'title' : 'Previous','aria-label':'Previous'});
+            $('.flex-pauseplay a.flex-pause').attr({'title' : 'Play/Pause','aria-label':'Play/Pause'});
+            $('.flex-direction-nav a.flex-next').attr({'title' : 'Next','aria-label':'Next'});
+        });
+    </script>
+    <!--Department Instance--><link rel='stylesheet' id='flexslider-css' href='https://niepid.nic.in/wp-content/plugins/js_composer/assets/lib/flexslider/flexslider.min.css?ver=6.11.0' media='all' />
+<link rel='stylesheet' id='custom-flexslider-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/custom-flexslider.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='news-ticker-style-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/news-ticker.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='vc_tta_style-css' href='https://niepid.nic.in/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=6.11.0' media='all' />
+<link rel='stylesheet' id='list-style-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/list-style.min.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='component-helper-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/component-helper.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='card-style-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/card.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='home-gallery-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/photo-gallery-home.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='footer-style-css' href='https://niepid.nic.in/wp-content/plugins/awas-shortcode/assets/css/footer-logo-carousel.css?ver=6.7.1' media='all' />
+<script type="text/javascript" id="jquery-common-js-js-extra">
+/* <![CDATA[ */
+var AwaasData = {"ajaxUrl":"https:\/\/niepid.nic.in\/wp-admin\/admin-ajax.php","isUserLoggedIn":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/common_utility/js/common.js?ver=1.1" id="jquery-common-js-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/core.min.js?ver=3.6.4" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/jquery.flexslider.js?ver=1.1" id="jquery-flexslider-js-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/easyResponsiveTabs.js?ver=1.1" id="jseasyResponsiveTabs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/jquery.fancybox.js?ver=1.1" id="jqueryfancyboxjs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/style.switcher.js?ver=1.1" id="styleswitcherjs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/menu.js?ver=1.1" id="menujs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/table.min.js?ver=1.1" id="tablejs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/custom.js?ver=1.1" id="custom-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/themes/sdo-theme/js/extra.js?ver=1.1" id="extrajs-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.11.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.11.0" id="flexslider-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.11.0" id="vc_accordion_script-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.11.0" id="vc_tta_autoplay_script-js"></script>
+<script type="text/javascript" src="https://niepid.nic.in/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=6.11.0" id="vc_tabs_script-js"></script>
+        <script>
+            jQuery(document).ready(function ($) {
+                $.post({
+                    url: ajaxurl,
+                    method: 'POST',
+                    dataType: 'JSON',
+                    data: {
+                        time: new Date().getTime(),
+                        lang: 'en',
+                        action: 's3waas_pll_lang_cookie'
+                    },
+                    success: function (responseResults) {}
+                })
+            })
+        </script>
+        <script type="text/javascript">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=niepid.nic.in; secure; SameSite=Lax";
+			}());
+
+</script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.287 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-02-15 09:18:22 -->
+
+<!-- super cache -->

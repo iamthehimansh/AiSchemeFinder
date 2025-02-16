@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Scheme Finder</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    <div class="flex h-screen">
+        <!-- Sidebar -->
+        <div class="w-64 bg-gray-800 text-white p-4 flex flex-col">
+            <div class="flex items-center justify-between mb-4">
+                <h1 class="text-xl font-bold">Chats</h1>
+                <button onclick="newChat()" class="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 rounded">
+                    New
+                </button>
+            </div>
+            <div id="chat-list" class="flex-1 overflow-y-auto">
+                <!-- Chat history will be populated here -->
+            </div>
+        </div>
+
+        <!-- Main Chat Area -->
+        <div class="flex-1 flex flex-col">
+            <div id="chat-messages" class="flex-1 p-4 overflow-y-auto">
+                <!-- Messages will appear here -->
+            </div>
+            <div class="p-4 border-t">
+                <form id="chat-form" class="flex gap-2">
+                    <input type="text" id="message-input" class="flex-1 p-2 border rounded" placeholder="Type your message...">
+                    <button type="submit" class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded">
+                        Send
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentChatId = null;
+
+        async function loadChats() {
+            const response = await fetch('/api/chats');
+            const chatIds = await response.json();
+            const chatList = document.getElementById('chat-list');
+            chatList.innerHTML = '';
+            
+            for (const chatId of chatIds) {
+                const chatButton = document.createElement('button');
+                chatButton.className = 'w-full text-left p-2 hover:bg-gray-700 rounded flex justify-between items-center';
+                chatButton.innerHTML = `
+                    <span>${chatId}</span>
+                    <button onclick="deleteChat('${chatId}')" class="text-red-500 hover:text-red-400 px-2">
+                        ×
+                    </button>
+                `;
+                chatButton.onclick = () => loadChat(chatId);
+                chatList.appendChild(chatButton);
+            }
+        }
+
+        async function loadChat(chatId) {
+            currentChatId = chatId;
+            const response = await fetch(`/api/chat/${chatId}`);
+            const messages = await response.json();
+            displayMessages(messages);
+        }
+
+        function displayMessages(messages) {
+            const chatMessages = document.getElementById('chat-messages');
+            chatMessages.innerHTML = '';
+            
+            for (const message of messages) {
+                const messageDiv = document.createElement('div');
+                messageDiv.className = `mb-4 ${message.role === 'user' ? 'text-right' : 'text-left'}`;
+                
+                const contentDiv = document.createElement('div');
+                contentDiv.className = `inline-block p-3 rounded-lg ${message.role === 'user' ? 'bg-blue-500 text-white' : 'bg-gray-200 text-gray-800'}`;
+                contentDiv.textContent = message.content;
+                
+                messageDiv.appendChild(contentDiv);
+                chatMessages.appendChild(messageDiv);
+            }
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        async function deleteChat(chatId) {
+            event.stopPropagation();
+            await fetch(`/api/chat/${chatId}`, { method: 'DELETE' });
+            if (currentChatId === chatId) {
+                currentChatId = null;
+                document.getElementById('chat-messages').innerHTML = '';
+            }
+            loadChats();
+        }
+
+        function newChat() {
+            currentChatId = null;
+            document.getElementById('chat-messages').innerHTML = '';
+            document.getElementById('message-input').focus();
+        }
+
+        document.getElementById('chat-form').onsubmit = async function(e) {
+            e.preventDefault();
+            const input = document.getElementById('message-input');
+            const message = input.value.trim();
+            if (!message) return;
+            
+            input.value = '';
+            const url = `/api/chat?message=${encodeURIComponent(message)}${currentChatId ? `&chat_id=${currentChatId}` : ''}`;
+            const eventSource = new EventSource(url);
+            
+            let assistantMessage = '';
+            const chatMessages = document.getElementById('chat-messages');
+            
+            // Add user message immediately
+            const userMessageDiv = document.createElement('div');
+            userMessageDiv.className = 'mb-4 text-right';
+            userMessageDiv.innerHTML = `
+                <div class="inline-block p-3 rounded-lg bg-blue-500 text-white">
+                    ${message}
+                </div>
+            `;
+            chatMessages.appendChild(userMessageDiv);
+            
+            // Create assistant message container
+            const assistantMessageDiv = document.createElement('div');
+            assistantMessageDiv.className = 'mb-4 text-left';
+            assistantMessageDiv.innerHTML = `
+                <div class="inline-block p-3 rounded-lg bg-gray-200 text-gray-800"></div>
+            `;
+            chatMessages.appendChild(assistantMessageDiv);
+            const assistantContentDiv = assistantMessageDiv.querySelector('div');
+            
+            eventSource.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                assistantMessage += data.chunk;
+                assistantContentDiv.textContent = assistantMessage;
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            };
+            
+            eventSource.onerror = function() {
+                eventSource.close();
+                if (!currentChatId) {
+                    loadChats();
+                }
+            };
+            
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        };
+
+        loadChats();
+    </script>
+</body>
+</html>
